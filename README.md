@@ -29,21 +29,19 @@
 
 <h3 align="left">Mobile App Development:</h3>
 <p align="left"><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a>  </p>
-<br />
+
 <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelfattah90&show_icons=true&locale=en&layout=compact" alt="abdelfattah90" />
 <br />
-<br />
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelfattah90" alt="abdelfattah90" /></a>
 </p>
-<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/abdelfattah9" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelfattah9" height="30" width="60" />
-    </a>
     <a href="https://wa.me/+2001066078954" target="blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="abdelfattah9" height="30" width="60" />
+    </a><a href="https://linkedin.com/in/abdelfattah9" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelfattah9" height="30" width="60" />
     </a>
+    
 </p>
-<br />
