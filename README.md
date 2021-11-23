@@ -1,5 +1,3 @@
-<h1 align="center">Ahmed Abdelfattah</h1>
-
 <h2 align="left"><img src="https://komarev.com/ghpvc/?username=abdelfattah90&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah90" /></h2>
 
 <h3 align="left">Programming languages:</h3>
