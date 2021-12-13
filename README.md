@@ -1,6 +1,8 @@
 <h2 align="left"><img src="https://komarev.com/ghpvc/?username=abdelfattah90&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah90" /></h2>
 
-
+<p align="left">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelfattah90&show_icons=true&locale=en&layout=compact" alt="abdelfattah90" />
+</p>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
