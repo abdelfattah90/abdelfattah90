@@ -1,8 +1,7 @@
-<h1 align="left"><img src="https://komarev.com/ghpvc/?username=abdelfattah90&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah90" /></h1>
+<img src="https://komarev.com/ghpvc/?username=abdelfattah90&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah90" />
 
-<h2>Online Projects</h2>
-
-- [Prophetic biography](https://seira.vercel.app)
+### Online Projects
+- [The Prophet Muhammad Biography](https://seira.vercel.app)
 - [hayahmodern](https://hayahmodern.com)
 - [creved](https://creved.com)
 
