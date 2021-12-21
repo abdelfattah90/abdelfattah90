@@ -1,8 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=abdelfattah90&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah90" />
 
 ### Production Projects
-- [hayahmodern](https://hayahmodern.com)
-- [creved](https://creved.com)
+- [hayahmodern.com](https://hayahmodern.com)
+- [creved.com](https://creved.com)
 
 ### Development Projects
 - [The Prophet Muhammad Biography](https://seira.vercel.app)
