@@ -1,12 +1,11 @@
-<img src="https://komarev.com/ghpvc/?username=abdelfattah90&label=Profile%20views&color=0e75b6&style=flat" alt="abdelfattah90" />
-
 ### Production Projects
 - [hayahmodern.com](https://hayahmodern.com)
 - [creved.com](https://creved.com)
 
 ### Development Projects
 - [The Prophet Muhammad Biography](https://seira.vercel.app)
-- [React GitHub Finder](https://reactjs-github-finder.vercel.app/)
+- [React GitHub Finder](https://reactjs-github-finder.vercel.app)
+- [React Essential Ideas Snippets](https://react-essential-ideas-snippets.vercel.app)
 - [React GraphQL Blog](https://react-graphql-blog.vercel.app)
 - [JavaScript HTML-DOM, API and Design](https://abdelfattah90.github.io/JavaScript-HTML-DOM-Projects)
 
