@@ -1,14 +1,17 @@
 ### Production Projects
-- [Thwab App](https://play.google.com/store/apps/details?id=com.crevedweb.thwab)
-- [hayahmodern.com](https://hayahmodern.com)
-- [creved.com](https://creved.com)
+- [Apache Cordova - Thwab App](https://play.google.com/store/apps/details?id=com.crevedweb.thwab)
+- [React - hayahmodern.com](https://hayahmodern.com)
+- [Laravel - creved.com](https://creved.com)
 
 ### Development Projects
-- [The Prophet Muhammad Biography](https://seira.vercel.app)
-- [React GitHub Finder](https://reactjs-github-finder.vercel.app)
-- [React Essential Ideas Snippets](https://react-essential-ideas-snippets.vercel.app)
-- [React GraphQL Blog](https://react-graphql-blog.vercel.app)
-- [JavaScript HTML-DOM, API and Design](https://abdelfattah90.github.io/JavaScript-HTML-DOM-Projects)
+- [Next.js-The-Prophet-Muhammad-Biography](https://seira.vercel.app)
+- [React-GitHub-Finder](https://reactjs-github-finder.vercel.app)
+- [React-Essential-Ideas-Snippets](https://react-essential-ideas-snippets.vercel.app)
+- [React-GraphQL-Blog](https://react-graphql-blog.vercel.app)
+- [React-MP3](https://mou.vercel.app)
+- [Tailwindcss-Landing-Page](https://tailwindcss-landing-page.vercel.app)
+- [Tailwindcss-Essential-Ideas](https://tailwindcss-essential-ideas.vercel.app)
+- [JavaScript HTML-DOM, API](https://abdelfattah90.github.io/JavaScript-HTML-DOM-Projects)
 
 
 <p align="left">
