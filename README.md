@@ -9,6 +9,7 @@
 
 - [Next.js : The Prophet Muhammad Biography](https://seira.vercel.app)
 - [React : GitHub Finder](https://reactjs-github-finder.vercel.app)
+- [React : Moives Search](https://react-movies-searching.vercel.app)
 - [React : Essential React Ideas](https://react-essential-ideas-snippets.vercel.app)
 - [React, GraphQL : Blog](https://react-graphql-blog.vercel.app)
 - [React : MP3 Player Network Lessons](https://mou.vercel.app)
