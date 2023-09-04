@@ -9,7 +9,7 @@ function App() {
         <div className='container'>
           <div className='info'>
             <h1 className='name'>Ahmed Abdelfattah</h1>
-            <h4 className='job'>Frontend developer | React</h4>
+            <h4 className='job'>Backend developer</h4>
           </div>
           <div className='image'>
             <img
@@ -21,79 +21,142 @@ function App() {
       </section>
       <section className='container'>
         <section className='pt-5 pb-5'>
-          <div className='p-5 m-3 d-none d-sm-block d-sm-none  d-md-block'></div>
+          <div className='p-5 m-3 d-none d-sm-block d-sm-none d-md-block'></div>
           <h1 className='pb-5 text-center'>Projects</h1>
-          <div className='row'>
-            <div className='col-lg-4 col-md-4 col-sm-6 mb-4 d-flex align-items-stretch'>
-              <div className='card mb-4 card-transition'>
+          <div className='row justify-content-center'>
+            {/* Start Card col- */}
+            <div className='p-5 col-sm-6'>
+              <div className='card card-transition'>
                 <img
-                  src='./images/cover.jpg'
+                  src='./images/app.png'
                   className='card-img-top'
-                  alt='...'
+                  alt='app'
                 />
                 <div className='card-body d-flex flex-column'>
-                  <h5 className='card-title'>Dōtonbori Canalaaa</h5>
-                  <p className='card-text text-muted mb-4'>
-                    Is a manmade waterway dug in the early 1600s and now
-                    displays many landmark commercial locals and vivid neon
-                    signs.
+                  <h4 className='card-title'>eCommerce MERN Stack App</h4>
+                  <p className='card-text text-muted mb-4 p-3'>
+                    A full-stack ecommerce app that uses React, Redux, MongoDB,
+                    NodeJS, Typescript, ExpressJS, and JWT Authentication to
+                    upload and manage ecommerce data.
                   </p>
                   <div className='btn-container'>
-                    <a href='#' className='btn button-live'>
+                    <a
+                      href='https://www.google.com'
+                      className='btn button-live'
+                      target='_blank'
+                      rel='noreferrer'
+                    >
                       Live
                     </a>
-                    <a href='#' className=''>
+                    <a
+                      href='https://www.google.com'
+                      className=''
+                      target='_blank'
+                      rel='noreferrer'
+                    >
                       <img
                         src='./images/github-dark.png'
-                        width={40}
-                        height={40}
+                        width={50}
+                        height={50}
                       />
                     </a>
                   </div>
                 </div>
               </div>
             </div>
-            {/* Repeat the above card  */}
+
+            {/* End Card col- */}
+            {/* Start Card col- */}
+            <div className='p-5 col-sm-6'>
+              <div className='card card-transition'>
+                <img
+                  src='./images/app.png'
+                  className='card-img-top'
+                  alt='app'
+                />
+                <div className='card-body d-flex flex-column'>
+                  <h4 className='card-title'>eCommerce MERN Stack App</h4>
+                  <p className='card-text text-muted mb-4 p-3'>
+                    A full-stack ecommerce app that uses React, Redux, MongoDB,
+                    NodeJS, Typescript, ExpressJS, and JWT Authentication to
+                    upload and manage ecommerce data.
+                  </p>
+
+                  <a
+                    href='https://www.google.com'
+                    className='btn button-live'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                    Live
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            {/* End Card col- */}
+
+            {/* Start Card col- */}
+            <div className='p-5 col-sm-6'>
+              <div className='card card-transition'>
+                <img
+                  src='./images/app.png'
+                  className='card-img-top'
+                  alt='app'
+                />
+                <div className='card-body d-flex flex-column'>
+                  <h4 className='card-title'>eCommerce MERN Stack App</h4>
+                  <p className='card-text text-muted mb-4 p-3'>
+                    A full-stack ecommerce app that uses React, Redux, MongoDB,
+                    NodeJS, Typescript, ExpressJS, and JWT Authentication to
+                    upload and manage ecommerce data.
+                  </p>
+                  <div className='btn-container'>
+                    <a
+                      href='https://www.google.com'
+                      className='btn button-live'
+                      target='_blank'
+                      rel='noreferrer'
+                    >
+                      Live
+                    </a>
+                    <a
+                      href='https://www.google.com'
+                      className=''
+                      target='_blank'
+                      rel='noreferrer'
+                    >
+                      <img
+                        src='./images/github-dark.png'
+                        width={50}
+                        height={50}
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* End Card col- */}
           </div>
         </section>
       </section>
 
-      {/* <div className='latest-works'>
-          <div className='container'>
-            <h2 className='pb-2'>Latest Works</h2>
-            <div className='works-card'>
-              <ul className='list-group'>
-                <li className='list-group-item d-flex justify-content-between align-items-center'>
-                  <h5 className='work-ar'>السيرة النبوية</h5>
-                  <a
-                    href='https://play.google.com/store/apps/details?id=com.seira.seiranabawayaa'
-                    target='_blank'
-                    rel='noreferrer'
-                  >
-                    <button className='button-live'>Live</button>
-                  </a>
-                </li>
-                <p className='line-break' />
-              </ul>
-            </div>
-          </div>
-        </div> */}
       <div className='container-fluid'>
         <h2 className='text-center p-4 mt-3'>Technologies and Tools</h2>
         <div className='tech'>
-          <img src='./images/react.svg' height={70} width={70} />
-          <img src='./images/redux.svg' height={70} width={70} />
-          <img src='./images/vite.svg' height={70} width={70} />
-          <img src='./images/next-js.svg' height={70} width={70} />
-          <img src='./images/bootstrap.svg' height={70} width={70} />
-          <img src='./images/tailwindcss.svg' height={70} width={70} />
-          <img src='./images/react-query.svg' height={70} width={70} />
+          <img src='./images/javascript.svg' height={70} width={70} />
           <img src='./images/node.svg' height={70} width={70} />
+          <img src='./images/express.svg' height={70} width={70} />
+          <img src='./images/prisma.svg' height={70} width={70} />
+          <img src='./images/mysql.svg' height={70} width={70} />
+          <img src='./images/postgresql.svg' height={70} width={70} />
           <img src='./images/mongo.svg' height={70} width={70} />
-
-          <img src='./images/postman.svg' height={70} width={70} />
-          <img src='./images/swagger.svg' height={70} width={70} />
-          <img src='./images/flutter.svg' height={70} width={70} />
+          <img src='./images/react.svg' height={70} width={70} />
+          <img src='./images/next-js.svg' height={70} width={70} />
+          <img src='./images/redux.svg' height={70} width={70} />
+          <img src='./images/react-query.svg' height={70} width={70} />
+          <img src='./images/bootstrap.svg' height={70} width={70} />
         </div>
       </div>
 
