@@ -122,8 +122,9 @@
   background: #915181 !important;
   border-radius: 5px;
   border: 0;
-  padding: 10px 30px;
+  padding: 12px 30px;
   cursor: pointer;
+  font-size: 17px;
 }
 .button-live:hover {
   color: #d6d6d6;
