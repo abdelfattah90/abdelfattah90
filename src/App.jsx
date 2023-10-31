@@ -140,10 +140,10 @@ function App() {
             <img src='./images/call.png' height={30} width={30} />
           </a>
 
-          <a className='mx-2' href='tel:+201066078954'>
+          <a className='mx-2' href='https://www.linkedin.com/in/abdelfattah9'>
             <img src='./images/linkedin.png' height={30} width={30} />
           </a>
-          <a className='mx-2' href='tel:+201066078954'>
+          <a className='mx-2' href='https://github.com/abdelfattah90'>
             <img src='./images/github.png' height={30} width={30} />
           </a>
         </div>
