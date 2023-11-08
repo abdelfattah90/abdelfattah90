@@ -2,7 +2,7 @@ const projects = [
   {
     title: 'Next.js Dashboard UI Kit',
     description:
-      'Designed initial layout, integrated Components, suitable and responsive for all screens. Using Next.js, TypeScript, TailwindCSS, Syncfusion, Chart.js, Swiper.js, React icons.',
+      'Next.js dashboard, integrated Components, suitable and responsive for all screens. Using Next.js, TypeScript, Axios, TailwindCSS, Syncfusion, Chart.js, Swiper.js, React icons.',
     liveLink: 'https://dashboard-ui-kit.vercel.app',
     githubLink: 'https://github.com/abdelfattah90',
     image: './images/projects/dashboard-ui-kit.png',
@@ -18,7 +18,7 @@ const projects = [
   {
     title: 'Apple Store',
     description:
-      'Multi Languages app, manage and share state by Context API. Using Next.js, TypeScript, TailwindCSS, React-i18next.',
+      'Next.js Multi Languages app, using React-i18next package and manage state by Context API.',
     liveLink: 'https://appple.vercel.app',
     githubLink: 'https://github.com/abdelfattah90',
     image: './images/projects/apple.png',
@@ -26,7 +26,7 @@ const projects = [
   {
     title: 'السيرة النبوية',
     description:
-      'Using flutter cross platform, shared preferences, and considerate interface segregation principle.',
+      'Flutter cross platform, shared preferences, and considerate interface segregation principle.',
     liveLink:
       'https://play.google.com/store/apps/details?id=com.seira.seiranabawayaa',
 
